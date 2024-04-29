@@ -1,4 +1,4 @@
-# Dillinger
+# voting-suspense
 A little userscript to add some suspense to voting. 
 
 ## Setup
